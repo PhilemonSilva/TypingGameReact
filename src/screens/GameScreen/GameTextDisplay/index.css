@@ -1,0 +1,28 @@
+.clearedCharacters {
+  margin: 0;
+  color: #2a9d8f;
+}
+
+.currentCharacter {
+  margin: 0;
+  color:#ef233c;
+}
+
+.remainingCharacters {
+  margin: 0;
+  color:#080808;
+}
+
+.gameTextDisplay {
+  margin-top: 1rem;
+  width: 80%;
+  height: 40%;
+  background-color: whitesmoke;
+  border-radius: 5px;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding: 1rem;
+}

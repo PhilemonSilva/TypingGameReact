@@ -1,0 +1,12 @@
+.no-line-break {
+    white-space: nowrap;
+}
+
+.score {
+  margin-top: 1rem;
+  width: 100%;
+}
+
+.bold {
+  font-weight: bold;
+}
